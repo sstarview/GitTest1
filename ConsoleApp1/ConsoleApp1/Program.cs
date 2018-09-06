@@ -10,7 +10,7 @@ namespace ConsoleApp1
   {
     static void Main(string[] args)
     {
-      //Code was edited in github
+      //Code was edited twice in github
     }
   }
 }
